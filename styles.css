@@ -1,0 +1,12 @@
+* {
+    line-height: 10;
+}
+
+h1 {
+    color: blue;
+    background-color: red;
+}
+
+img {
+    width: 50px;
+}
