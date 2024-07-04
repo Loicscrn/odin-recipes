@@ -104,6 +104,7 @@ img {
     width: 30px;
     color: darkred;
     margin: 0 50% 10px 50%;
+    border-radius: 1em;
 }
 
 .stars {
