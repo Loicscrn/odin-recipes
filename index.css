@@ -45,7 +45,6 @@ a:hover {
 
 .intro {
     display: flex;
-    flex: 1;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
     justify-content: center;
@@ -54,7 +53,6 @@ a:hover {
 
 .illustration {
     display: flex;
-    flex: 1;
     width: 500px;
     margin : 3% auto; 
 }
@@ -75,7 +73,6 @@ a:hover {
 .recipes {
     width: 800px;
     display: flex;
-    flex: 1;
     flex-direction: row;
     margin: 0 auto;
     text-align: center;
