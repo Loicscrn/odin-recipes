@@ -1,0 +1,25 @@
+.favorite {
+    background-color:blue;
+    color: white;
+    width: 30%;
+    height: 30px;
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    color: blue;
+    text-decoration: underline;
+}
+
+a {
+    color:blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+
+.ice_cubes {
+    font-weight: normal;
+}
